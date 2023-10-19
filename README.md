@@ -15,7 +15,7 @@ I'm owner and chief scientist for Tragically Slick Softare, LTD. We write custom
 
 ## Want More Information?
 
-Send me an email! If you're company needs to bring on senior level developers with proven skills to solve a problem, we're your guns for hire!
+Send me an email! If your company needs to bring on senior level developers with proven skills to solve a problem, we're your guns for hire!
 
 <!--
 **mcpierce/mcpierce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
