@@ -21,7 +21,7 @@ Ultima IV was encoded on disc, then creating a spot on the map where I could get
 walk my characters where we needed to go! I also played around with machine language coding and tinkered with CP/M. The 6510 processor was a lot of fun!
 
 After building my first computer (an x286 with 64kb RAM, a 40mb IDE drive, and an SVGA card and monitor) I started learning how to write code using Pascal, C, and C++. I ran a BBS
-and distributed more than a couple of shareware BBS door games, the most popular of which was named [Win Or Die](ftp://archives.thebbs.org/door_games/doors_u-z/wod_210a.zip),
+and distributed more than a couple of shareware BBS door games, the most popular of which was named [Win Or Die](http://archives.thebbs.org/ra97c.htm),
 which I distributed under the pseudonym of "Darryl Basner". A lot of SysOps registered their copies, which helped keep me inspired to write applications.
 
 Eventually I got a job where I was paid to program, and from such humble beginnings I forged a lifetime of learning different programming languages, frameworks, platforms,
