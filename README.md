@@ -37,12 +37,6 @@ I work for an international company as the principal engineer for the software t
 
 My current programming goals include enhancing and maintaining the [ComiXed](http://github.com/comixed/comixed) digital comic management system, and getting it's sister project [Variant](http://github.com/comixed/variant) to a point where users can use it to read their library. On the side I'm also working on an idea I've been germinating for a few years now. More on that hopefully soon!
 
-### My Open Source Statistics
-
-![McPierce's Github Stats](https://github-readme-stats.vercel.app/api?username=mcpierce&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mcpierce&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Want More Information?
 
 Send me an email! If your company needs to bring on senior level developers with proven skills to solve a problem, we're your guns for hire!
